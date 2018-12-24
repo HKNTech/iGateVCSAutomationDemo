@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.igate.qa.ExtentReporterListner.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" name="ApplyLeaveTest(failed)">
+    <classes>
+      <class name="com.igate.qa.testcases.ApplyLeaveTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="iGateApplyLeaveTest"/>
+        </methods>
+      </class> <!-- com.igate.qa.testcases.ApplyLeaveTest -->
+    </classes>
+  </test> <!-- ApplyLeaveTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

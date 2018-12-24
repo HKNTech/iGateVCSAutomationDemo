@@ -1,0 +1,4 @@
+com\igate\qa\testcases\CancelLeaveTest.class
+com\igate\qa\testcases\LoginPageTest.class
+com\igate\qa\testcases\ModifyLeaveTest.class
+com\igate\qa\testcases\ApplyLeaveTest.class

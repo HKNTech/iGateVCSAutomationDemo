@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="280839" started-at="2018-12-16T06:43:29Z" finished-at="2018-12-16T06:48:10Z">
+    <groups>
+    </groups>
+    <test name="LoginTest" duration-ms="28340" started-at="2018-12-16T06:43:29Z" finished-at="2018-12-16T06:43:58Z">
+      <class name="com.igate.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.igate.qa.testcases.LoginPageTest@6913c1fb]" name="setup" is-config="true" duration-ms="6256" started-at="2018-12-16T06:43:29Z" finished-at="2018-12-16T06:43:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.igate.qa.testcases.LoginPageTest@6913c1fb]" name="loginPageTitleTest" duration-ms="26" started-at="2018-12-16T06:43:36Z" finished-at="2018-12-16T06:43:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.igate.qa.testcases.LoginPageTest@6913c1fb]" name="tearDown" is-config="true" duration-ms="787" started-at="2018-12-16T06:43:36Z" finished-at="2018-12-16T06:43:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.igate.qa.testcases.LoginPageTest@6913c1fb]" name="setup" is-config="true" duration-ms="5576" started-at="2018-12-16T06:43:36Z" finished-at="2018-12-16T06:43:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginLogoImageTest()[pri:2, instance:com.igate.qa.testcases.LoginPageTest@6913c1fb]" name="loginLogoImageTest" duration-ms="47" started-at="2018-12-16T06:43:42Z" finished-at="2018-12-16T06:43:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginLogoImageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.igate.qa.testcases.LoginPageTest@6913c1fb]" name="tearDown" is-config="true" duration-ms="775" started-at="2018-12-16T06:43:42Z" finished-at="2018-12-16T06:43:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.igate.qa.testcases.LoginPageTest@6913c1fb]" name="setup" is-config="true" duration-ms="5816" started-at="2018-12-16T06:43:43Z" finished-at="2018-12-16T06:43:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:3, instance:com.igate.qa.testcases.LoginPageTest@6913c1fb]" name="loginTest" duration-ms="8233" started-at="2018-12-16T06:43:49Z" finished-at="2018-12-16T06:43:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.igate.qa.testcases.LoginPageTest@6913c1fb]" name="tearDown" is-config="true" duration-ms="793" started-at="2018-12-16T06:43:57Z" finished-at="2018-12-16T06:43:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.igate.qa.testcases.LoginPageTest -->
+    </test> <!-- LoginTest -->
+    <test name="ApplyLeaveTest" duration-ms="93538" started-at="2018-12-16T06:43:58Z" finished-at="2018-12-16T06:45:31Z">
+      <class name="com.igate.qa.testcases.ApplyLeaveTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.igate.qa.testcases.ApplyLeaveTest@49e5f737]" name="setup" is-config="true" duration-ms="4935" started-at="2018-12-16T06:43:58Z" finished-at="2018-12-16T06:44:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="iGateApplyLeaveTest()[pri:1, instance:com.igate.qa.testcases.ApplyLeaveTest@49e5f737]" name="iGateApplyLeaveTest" duration-ms="87729" started-at="2018-12-16T06:44:03Z" finished-at="2018-12-16T06:45:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iGateApplyLeaveTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.igate.qa.testcases.ApplyLeaveTest@49e5f737]" name="tearDown" is-config="true" duration-ms="855" started-at="2018-12-16T06:45:30Z" finished-at="2018-12-16T06:45:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.igate.qa.testcases.ApplyLeaveTest -->
+    </test> <!-- ApplyLeaveTest -->
+    <test name="ModifyLeaveTest" duration-ms="84697" started-at="2018-12-16T06:45:31Z" finished-at="2018-12-16T06:46:56Z">
+      <class name="com.igate.qa.testcases.ModifyLeaveTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.igate.qa.testcases.ModifyLeaveTest@3af9c5b7]" name="setup" is-config="true" duration-ms="4752" started-at="2018-12-16T06:45:31Z" finished-at="2018-12-16T06:45:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="iGateModifyLeaveTest()[pri:1, instance:com.igate.qa.testcases.ModifyLeaveTest@3af9c5b7]" name="iGateModifyLeaveTest" duration-ms="79094" started-at="2018-12-16T06:45:36Z" finished-at="2018-12-16T06:46:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iGateModifyLeaveTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.igate.qa.testcases.ModifyLeaveTest@3af9c5b7]" name="tearDown" is-config="true" duration-ms="839" started-at="2018-12-16T06:46:55Z" finished-at="2018-12-16T06:46:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.igate.qa.testcases.ModifyLeaveTest -->
+    </test> <!-- ModifyLeaveTest -->
+    <test name="CancelLeaveTest" duration-ms="74178" started-at="2018-12-16T06:46:56Z" finished-at="2018-12-16T06:48:10Z">
+      <class name="com.igate.qa.testcases.CancelLeaveTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.igate.qa.testcases.CancelLeaveTest@77f80c04]" name="setup" is-config="true" duration-ms="4740" started-at="2018-12-16T06:46:56Z" finished-at="2018-12-16T06:47:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="iGateCancelLeaveTest()[pri:1, instance:com.igate.qa.testcases.CancelLeaveTest@77f80c04]" name="iGateCancelLeaveTest" duration-ms="68541" started-at="2018-12-16T06:47:01Z" finished-at="2018-12-16T06:48:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iGateCancelLeaveTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.igate.qa.testcases.CancelLeaveTest@77f80c04]" name="tearDown" is-config="true" duration-ms="889" started-at="2018-12-16T06:48:09Z" finished-at="2018-12-16T06:48:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.igate.qa.testcases.CancelLeaveTest -->
+    </test> <!-- CancelLeaveTest -->
+  </suite> <!-- Suite -->
+</testng-results>
